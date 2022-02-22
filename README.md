@@ -1,2 +1,4 @@
 # hello_world
-first dive
+First dive
+New to this code space
+Cannot wait to do something cool in the future!
