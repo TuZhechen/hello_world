@@ -1,3 +1,3 @@
-# Kaggles dataset ready for maching learning
+# Kaggles dataset ready for machine learning
 
 (TBD)
